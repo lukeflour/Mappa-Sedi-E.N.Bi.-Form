@@ -41,6 +41,13 @@
         "description": "<b>Responsabile</b>: Viti Vito<br><b>Indirizzo</b>: Via Magra, SNC - 04100 Latina<br> <b>Email</b>: latina@enbiform.it",
         "zoomLevel": 17
     },
+     {
+        "latitude": 45.10397691638334,  
+        "longitude": 10.479543596118422,
+        "title": "E.N.Bi.Form. Mantova",
+        "description": "<b>Responsabile</b>: Negri Fabio<br><b>Indirizzo</b>: Via Bonoldi, 67 – Bozzolo (MN)<br> <b>Email</b>: mantova@enbiform.it",
+        "zoomLevel": 20
+    },
     {
         "latitude": 45.46736748957142, 
         "longitude": 9.207311683176057,
@@ -55,12 +62,19 @@
         "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
         "zoomLevel": 18
     },
-    {
+  {
         "latitude": 45.47059718051807, 
         "longitude": 9.162130269684386,
-        "title": "Sede Territoriale 2 Milano",
-        "description": "<b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord1@enbiform.it",
-        "zoomLevel": 19
+        "title": "O.P.I. E.N.Bi.Form. Nord",
+        "description": "<b>Referente</b>: Minolfi Ettore<br><b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord1@enbiform.it",
+        "zoomLevel": 18
+    },
+       {
+        "latitude": 45.48986546934226,  
+        "longitude": 9.034872640705224,
+        "title": "E.N.Bi.Form. Milano Nord",
+        "description": "<b>Responsabile</b>: Mastromatteo Claudio<br><b>Indirizzo</b>: Via Milano, 7/D – Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
+        "zoomLevel": 18
     },
     {
         "latitude": 45.607489418693696, 
@@ -69,11 +83,11 @@
         "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
         "zoomLevel": 18
     },
-    {
-        "latitude": 45.5793988961266, 
-        "longitude": 10.437766413491818,
-        "title": "Sede Territoriale Brescia",
-        "description": "<b>Indirizzo</b>:  Via GGiovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: brescia@enbiform.it",
+      {
+        "latitude": 45.57924868043109,  
+        "longitude": 10.437798596148207,
+        "title": "E.N.Bi.Form. Lombardia – E.N.Bi.Form. Brescia",
+        "description": "<b>Responsabile</b>: Raccosta Carlo<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
         "zoomLevel": 18
     },
     {
@@ -107,8 +121,8 @@
     {
         "latitude": 42.783875661729404,      
         "longitude": 11.096916411943267,
-        "title": "Sede Regionale Toscana",
-        "description": "<b>Responsabile</b>: Fiumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)",
+        "title": "E.N.Bi.Form. Toscana",
+        "description": "<b>Referente</b>: Fumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)<br> <b>Email</b>: toscana@enbiform.it",
         "zoomLevel": 18
     },
     {
@@ -118,11 +132,18 @@
         "description": "<b>Responsabile</b>: Chiarle Giorgio<br><b>Indirizzo</b>: Via Circonvallazione, 28 - 11029 Verrès (AO)<br> <b>Email</b>: provinciale.aosta@enbiform.it",
         "zoomLevel": 18
     },
-    {
-        "latitude": 45.44553130523792,      
-        "longitude": 11.301858125503395,
-        "title": "Sede Regionale Veneto",
-        "description": "<b>Responsabile</b>: Rambaldelli Andrea<br><b>Indirizzo</b>: Via Giacomo Aroldi, 36 - 37032 Monteforte D'Alpone (VR)<br> <b>Email</b>: veneto@enbiform.it",
+{
+        "latitude": 44.90356337026731,   
+        "longitude": 7.673159196105899,
+        "title": "E.N.Bi.Form. Piemonte",
+        "description": "<b>Responsabile</b>: Avaro Maurilio<br><b>Indirizzo</b>: Via Silvio Pellico, 39 – Carignano (TO)<br> <b>Email</b>: piemonte@enbiform.it",
+        "zoomLevel": 18
+    },
+ {
+        "latitude": 45.44536569831375,   
+        "longitude": 11.301922496139834,
+        "title": "E.N.Bi.Form. Veneto - E.N.Bi.Form. Verona",
+        "description": "<b>Responsabile</b>: Rambaldelli Andrea<br><b>Indirizzo</b>: Via Giacomo Aroldi, 36 – Monteforte D’Alpone (VR)<br> <b>Email</b>: veneto@enbiform.it",
         "zoomLevel": 18
     },
     {
