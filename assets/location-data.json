@@ -4,21 +4,21 @@
         "longitude": 10.642742269665105,
         "title": "Sede Provinciale Reggio Emilia",
         "description": "<b>Responsabile</b>: Zerbo Alain Francois<br><b>Indirizzo</b>: Via Gaetano Filangieri 15 - 42124 Reggio Emilia (RE)<br> <b>Email</b>: provinciale.reggioemilia@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 42.39940016764371,
         "longitude": 14.105985027057946,
         "title": "Sede Provinciale Chieti",
         "description": "<b>Responsabile</b>: Domenico Malena<br><b>Indirizzo</b>: Via Papa GIovanni XXIII - 65019 Pianella (PE)<br> <b>Email</b>: provinciale.chieti@enbiform.it",
-        "zoomLevel": 19
+        "zoomLevel": 20
     },
     {
         "latitude": 42.46105344073602, 
         "longitude": 14.211155182881072,
         "title": "Sede Provinciale Pescara",
         "description": "<b>Responsabile</b>: Marco Seconi<br><b>Indirizzo</b>: Piazza Garibaldi 40 - 65127 Pescara (PE)<br> <b>Email</b>: pescara@enbiform.it",
-        "zoomLevel": 16
+        "zoomLevel": 20
     },
     {
         "latitude": 41.94329585331693, 
@@ -39,7 +39,7 @@
         "longitude": 12.877971869583076,
         "title": "Sede Provinciale Latina",
         "description": "<b>Responsabile</b>: Viti Vito<br><b>Indirizzo</b>: Via Magra, SNC - 04100 Latina<br> <b>Email</b>: latina@enbiform.it",
-        "zoomLevel": 17
+        "zoomLevel": 20
     },
      {
         "latitude": 45.10397691638334,  
@@ -53,84 +53,84 @@
         "longitude": 9.207311683176057,
         "title": "Sede Provinciale Milano",
         "description": "<b>Responsabile</b>: Angelo Motti<br><b>Indirizzo</b>: Via Premuda, 46 - 20129 Milano (MI)<br> <b>Email</b>: provincialemilano@enbiform.it",
-        "zoomLevel": 19
+        "zoomLevel": 20
     },
     {
         "latitude": 45.49982011856288, 
         "longitude": 9.13872821201309,
         "title": "Sede Territoriale 1 Milano",
         "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
   {
         "latitude": 45.47059718051807, 
         "longitude": 9.162130269684386,
         "title": "O.P.I. E.N.Bi.Form. Nord",
         "description": "<b>Referente</b>: Minolfi Ettore<br><b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord1@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
        {
         "latitude": 45.48986546934226,  
         "longitude": 9.034872640705224,
         "title": "E.N.Bi.Form. Milano Nord",
         "description": "<b>Responsabile</b>: Mastromatteo Claudio<br><b>Indirizzo</b>: Via Milano, 7/D – Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 45.607489418693696, 
         "longitude": 9.377431585032213,
         "title": "Sede Territoriale Brianza",
         "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
       {
         "latitude": 45.57924868043109,  
         "longitude": 10.437798596148207,
         "title": "E.N.Bi.Form. Lombardia – E.N.Bi.Form. Brescia",
         "description": "<b>Responsabile</b>: Raccosta Carlo<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 45.68369417108393,  
         "longitude": 9.729425096154811,
         "title": "O.P.P. E.N.Bi.Form. Bergamo",
-        "description": "<b>Responsabile</b>: Volpi Michele<br><b>Indirizzo</b>: Via Liberta', 29 – 24068 Seriate (BG)<br> <b>Email</b>: bergamo@enbiform.it/brescia@enbiform.it",
-        "zoomLevel": 18
+        "description": "<b>Responsabile</b>: Volpi Michele<br><b>Indirizzo</b>: Via Liberta', 29 – 24068 Seriate (BG)<br> <b>Email</b>: bergamo@enbiform.it",
+        "zoomLevel": 20
     },
     {
         "latitude": 42.89995636611633,  
         "longitude": 13.896539984962551,
         "title": "Sede Regionale Marche",
         "description": "<b>Responsabile</b>: Luigina Marcelli<br><b>Indirizzo</b>: Via Pontida, 6 - 63074 San Benedetto del Tronto (AP)<br> <b>Email</b>: regionalemarche@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 43.257836391444734,   
         "longitude": 13.593273771479682,
         "title": "Sede Provinciale Macerata",
         "description": "<b>Responsabile</b>: Loris Romitelli<br><b>Indirizzo</b>: Via Guido Rossa, 29 - 62015 Monte San Giusto (MC)<br> <b>Email</b>: provinciale.macerata@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 43.25002349991022,    
         "longitude": 13.400914084971413,
         "title": "Sede Territoriale Macerata",
         "description": "<b>Responsabile</b>: Dr. Giancarlo Dell'Aquila<br><b>Indirizzo</b>: Via Vecchietti, 2 - 62010 Pollenza (MC)<br> <b>Email</b>: territoriale.macerata@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 43.598242074284585,     
         "longitude": 13.48999477148842,
         "title": "Sede Provinciale Ancona",
         "description": "<b>Responsabile</b>: Matteo Bevilacqua<br><b>Indirizzo</b>: Via Monte Vettore, 39 - 60131 Ancona (AN)<br> <b>Email</b>: ancona@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 42.783875661729404,      
         "longitude": 11.096916411943267,
         "title": "E.N.Bi.Form. Toscana",
         "description": "<b>Referente</b>: Fumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)<br> <b>Email</b>: toscana@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 45.66238262274334,     
@@ -144,27 +144,27 @@
         "longitude": 7.673159196105899,
         "title": "E.N.Bi.Form. Piemonte",
         "description": "<b>Responsabile</b>: Avaro Maurilio<br><b>Indirizzo</b>: Via Silvio Pellico, 39 – Carignano (TO)<br> <b>Email</b>: piemonte@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
  {
         "latitude": 45.44536569831375,   
         "longitude": 11.301922496139834,
         "title": "E.N.Bi.Form. Veneto - E.N.Bi.Form. Verona",
         "description": "<b>Responsabile</b>: Rambaldelli Andrea<br><b>Indirizzo</b>: Via Giacomo Aroldi, 36 – Monteforte D’Alpone (VR)<br> <b>Email</b>: veneto@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 45.480064595635035,       
         "longitude": 12.253778783176438,
         "title": "Sede Territoriale Noventa di Piave",
         "description": "<b>Responsabile</b>: Alessandro Bacchin<br><b>Indirizzo</b>: Via Torino, 151 D - Mestre - Venezia 30172<br> <b>Email</b>: mestre@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     },
     {
         "latitude": 45.40628222824506, 
         "longitude": 11.246001669682661,  
         "title": "Sede Provinciale Verona",
         "description": "<b>Responsabile</b>: Ramponi Andrea<br><b>Indirizzo</b>:Via Crosaron, 18 – 37047 San Bonifacio (VR)<br> <b>Email</b>: verona@enbiform.it",
-        "zoomLevel": 18
+        "zoomLevel": 20
     }
 ]
