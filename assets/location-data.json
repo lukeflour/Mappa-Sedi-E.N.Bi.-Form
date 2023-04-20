@@ -44,7 +44,7 @@
      {
         "latitude": 45.10397691638334,  
         "longitude": 10.479543596118422,
-        "title": "E.N.Bi.Form. Mantova",
+        "title": "Sede Provinciale Mantova",
         "description": "<b>Responsabile</b>: Negri Fabio<br><b>Indirizzo</b>: Via Bonoldi, 67 – Bozzolo (MN)<br> <b>Email</b>: mantova@enbiform.it",
         "zoomLevel": 20
     },
@@ -58,21 +58,21 @@
     {
         "latitude": 45.49982011856288, 
         "longitude": 9.13872821201309,
-        "title": "Sede Territoriale 1 Milano",
+        "title": "Sede Territoriale Milano Nord-Ovest",
         "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
         "zoomLevel": 20
     },
   {
         "latitude": 45.47059718051807, 
         "longitude": 9.162130269684386,
-        "title": "O.P.I. E.N.Bi.Form. Nord",
+        "title": "Sede Interregionale Nord",
         "description": "<b>Referente</b>: Minolfi Ettore<br><b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord1@enbiform.it",
         "zoomLevel": 20
     },
        {
         "latitude": 45.48986546934226,  
         "longitude": 9.034872640705224,
-        "title": "E.N.Bi.Form. Milano Nord",
+        "title": "Sede Territoriale Milano Nord",
         "description": "<b>Responsabile</b>: Mastromatteo Claudio<br><b>Indirizzo</b>: Via Milano, 7/D – Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
         "zoomLevel": 20
     },
@@ -86,7 +86,7 @@
       {
         "latitude": 45.57924868043109,  
         "longitude": 10.437798596148207,
-        "title": "E.N.Bi.Form. Lombardia – E.N.Bi.Form. Brescia",
+        "title": "Sede Regionale Lombardia – Sede Provinciale Brescia",
         "description": "<b>Responsabile</b>: Raccosta Carlo<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
         "zoomLevel": 20
     },
@@ -128,7 +128,7 @@
     {
         "latitude": 42.783875661729404,      
         "longitude": 11.096916411943267,
-        "title": "E.N.Bi.Form. Toscana",
+        "title": "Sede Regionale Toscana",
         "description": "<b>Referente</b>: Fumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)<br> <b>Email</b>: toscana@enbiform.it",
         "zoomLevel": 20
     },
