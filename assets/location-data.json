@@ -86,7 +86,14 @@
       {
         "latitude": 45.57924868043109,  
         "longitude": 10.437798596148207,
-        "title": "Sede Regionale Lombardia – Sede Provinciale Brescia",
+        "title": "Sede Regionale Lombardia",
+        "description": "<b>Responsabile</b>: Raccosta Carlo<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
+        "zoomLevel": 20
+    },
+      {
+        "latitude": 45.57924868043109,  
+        "longitude": 10.437798596148207,
+        "title": "Sede Provinciale Brescia",
         "description": "<b>Responsabile</b>: Raccosta Carlo<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
         "zoomLevel": 20
     },
