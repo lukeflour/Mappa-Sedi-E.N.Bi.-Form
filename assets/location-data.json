@@ -58,8 +58,8 @@
     {
         "latitude": 45.49982011856288, 
         "longitude": 9.13872821201309,
-        "title": "Sede Territoriale Milano Nord-Ovest",
-        "description": "<b>Responsabile</b>: Lorenzo Lopedote<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
+        "title": "Sede Territoriale Milano Nord",
+        "description": "<b>Responsabile</b>: Simone Rossi<br><b>Indirizzo</b>: Viale Ludovico Di Breme, 50 - 20156 Milano (MI)<br> <b>Email</b>: territorialemilano1@enbiform.it",
         "zoomLevel": 20
     },
   {
@@ -72,7 +72,7 @@
        {
         "latitude": 45.48986546934226,  
         "longitude": 9.034872640705224,
-        "title": "Sede Territoriale Milano Nord",
+        "title": "Sede Territoriale Milano Nord-Ovest",
         "description": "<b>Responsabile</b>: Mastromatteo Claudio<br><b>Indirizzo</b>: Via Milano, 7/D – Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
         "zoomLevel": 20
     },
@@ -136,7 +136,7 @@
         "latitude": 42.783875661729404,      
         "longitude": 11.096916411943267,
         "title": "Sede Regionale Toscana",
-        "description": "<b>Referente</b>: Fumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)<br> <b>Email</b>: toscana@enbiform.it",
+        "description": "<b>Referente</b>: Fumi Stefano<br><b>Indirizzo</b>: Via Aurelia Nord, 221 – 58100 Grosseto (GR)<br> <b>Email</b>: toscana@enbiform.it<br> Sito Web: https://toscana.enbiform.org",
         "zoomLevel": 20
     },
     {
