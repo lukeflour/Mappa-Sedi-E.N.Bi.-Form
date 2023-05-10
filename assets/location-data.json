@@ -3,7 +3,7 @@
         "latitude": 44.731075040412705,
         "longitude": 10.642742269665105,
         "title": "Sede Provinciale Reggio Emilia",
-        "description": "<b>Responsabile</b>: Francois Zerbo Alain <br><b>Indirizzo</b>: Via Gaetano Filangieri 15 - 42124 Reggio Emilia (RE)<br> <b>Email</b>: provinciale.reggioemilia@enbiform.it",
+        "description": "<b>Responsabile</b>: Alain Francois Zerbo<br><b>Indirizzo</b>: Via Gaetano Filangieri 15 – 42124 Reggio Emilia (RE)<br> <b>Email</b>: provinciale.reggioemilia@enbiform.it",
         "zoomLevel": 20
     },
     {
@@ -24,7 +24,7 @@
         "latitude": 41.94329585331693, 
         "longitude": 12.654496027131428,
         "title": "Sede Provinciale Roma",
-        "description": "<b>Responsabile</b>: Roberto Pini<br><b>Indirizzo</b>: Via G. Gioacchino Belli, 6- 00012 (RM)<br> <b>Email</b>: provinciale.roma@enbiform.it",
+        "description": "<b>Responsabile</b>: Roberto Pini<br><b>Indirizzo</b>: Via Giuseppe Gioachino Belli, 6 – 00193 Roma (RM)<br> <b>Email</b>: provinciale.roma@enbiform.it",
         "zoomLevel": 20
     },
     {
@@ -38,14 +38,14 @@
         "latitude": 41.477966089884696,
         "longitude": 12.877971869583076,
         "title": "Sede Provinciale Latina",
-        "description": "<b>Responsabile</b>: Vito Viti<br><b>Indirizzo</b>: Via Magra, SNC - 04100 Latina<br> <b>Email</b>: latina@enbiform.it",
+        "description": "<b>Responsabile</b>: Vito Viti<br><b>Indirizzo</b>: Via Magra, snc – 04100 Latina<br> <b>Email</b>: latina@enbiform.it",
         "zoomLevel": 20
     },
      {
         "latitude": 45.10397691638334,  
         "longitude": 10.479543596118422,
         "title": "Sede Provinciale Mantova",
-        "description": "<b>Responsabile</b>: Fabio Negri <br><b>Indirizzo</b>: Via Bonoldi, 67 – Bozzolo (MN)<br> <b>Email</b>: mantova@enbiform.it",
+        "description": "<b>Responsabile</b>: Fabio Negri<br><b>Indirizzo</b>: Via Giuseppe Bonoldi, 67 – 46012 Bozzolo MN<br> <b>Email</b>: mantova@enbiform.it",
         "zoomLevel": 20
     },
     {
@@ -66,14 +66,14 @@
         "latitude": 45.47059718051807, 
         "longitude": 9.162130269684386,
         "title": "Sede Interregionale Nord",
-        "description": "<b>Referente</b>: Ettore Minolfi<br><b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord1@enbiform.it",
+        "description": "<b>Referente</b>: Ettore Minolfi<br><b>Indirizzo</b>:  Via Giorgio Pallavicino, 25 – 20145 Milano (MI)<br> <b>Email</b>: opinord@enbiform.it",
         "zoomLevel": 20
     },
        {
         "latitude": 45.48986546934226,  
         "longitude": 9.034872640705224,
         "title": "Sede Territoriale Milano Nord-Ovest",
-        "description": "<b>Responsabile</b>: Claudio Mastromatteo<br><b>Indirizzo</b>: Via Milano, 7/D – Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
+        "description": "<b>Responsabile</b>: Claudio Mastromatteo<br><b>Indirizzo</b>: Via Milano, 7/D – 20010 Cornaredo (MI)<br> <b>Email</b>: milanonord@enbiform.it",
         "zoomLevel": 20
     },
     {
@@ -150,21 +150,21 @@
         "latitude": 44.90356337026731,   
         "longitude": 7.673159196105899,
         "title": "Sede Regionale Piemonte",
-        "description": "<b>Responsabile</b>: Maurilio Avaro<br><b>Indirizzo</b>: Via Silvio Pellico, 39 – Carignano (TO)<br> <b>Email</b>: piemonte@enbiform.it",
+        "description": "<b>Responsabile</b>: Maurilio Avaro<br><b>Indirizzo</b>: Via Silvio Pellico, 39 – 10041 Carignano (TO)<br> <b>Email</b>: piemonte@enbiform.it",
         "zoomLevel": 20
     },
  {
         "latitude": 45.44536569831375,   
         "longitude": 11.301922496139834,
         "title": "Sede Regionale Veneto",
-        "description": "<b>Responsabile</b>: Andrea Rambaldelli<br><b>Indirizzo</b>: Via Giacomo Aroldi, 36 – Monteforte D’Alpone (VR)<br> <b>Email</b>: veneto@enbiform.it",
+        "description": "<b>Responsabile</b>: Andrea Rambaldelli<br><b>Indirizzo</b>: Via Giacomo Aroldi, 36 – 37032 Monteforte D’Alpone (VR)<br> <b>Email</b>: veneto@enbiform.it",
         "zoomLevel": 20
     },
     {
         "latitude": 45.480064595635035,       
         "longitude": 12.253778783176438,
         "title": "Sede Territoriale Noventa di Piave",
-        "description": "<b>Responsabile</b>: Alessandro Bacchin<br><b>Indirizzo</b>: Via Torino, 151 D - Mestre - Venezia 30172<br> <b>Email</b>: mestre@enbiform.it",
+        "description": "<b>Responsabile</b>: Alessandro Bacchin<br><b>Indirizzo</b>: Via Torino, 151/D – 30172 Mestre (VE)<br> <b>Email</b>: mestre@enbiform.it",
         "zoomLevel": 20
     },
     {
