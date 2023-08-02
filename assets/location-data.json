@@ -1,5 +1,12 @@
 [
     {
+        "latitude": 41.913487974718855, 
+        "longitude": 12.556369967089104,
+        "title": "Sede Territoriale Roma",
+        "description": "<b>Responsabile</b>: Davide Vincenti<br><b>Indirizzo</b>: Via Tiburtina, 775 - 00158 Roma (RM)<br> <b>Email</b>: territoriale.roma@enbiform.it",
+        "zoomLevel": 20
+    },    
+    {
         "latitude": 44.731075040412705,
         "longitude": 10.642742269665105,
         "title": "Sede Provinciale Reggio Emilia",
