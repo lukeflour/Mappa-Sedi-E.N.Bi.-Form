@@ -104,6 +104,13 @@
         "description": "<b>Responsabile</b>: Carlo Raccosta<br><b>Indirizzo</b>: Via Giovanni Quarena, 145 – 25085 Gavardo (BS)<br> <b>Email</b>: lombardia@enbiform.it/brescia@enbiform.it",
         "zoomLevel": 20
     },
+     {
+        "latitude": 45.65234577139514,  
+        "longitude": 10.421319039049964,
+        "title": "Sede Sabbio Chiese",
+        "description": "<b>Indirizzo</b>: Via Magno, 19 - 25070 Sabbio Chiese (BS)",
+        "zoomLevel": 20
+    },   
     {
         "latitude": 45.68369417108393,  
         "longitude": 9.729425096154811,
@@ -158,6 +165,13 @@
         "longitude": 7.673159196105899,
         "title": "Sede Regionale Piemonte",
         "description": "<b>Responsabile</b>: Maurilio Avaro<br><b>Indirizzo</b>: Via Silvio Pellico, 39 – 10041 Carignano (TO)<br> <b>Email</b>: piemonte@enbiform.it",
+        "zoomLevel": 20
+    },
+ {
+        "latitude": 44.762866188721596, 
+        "longitude": 7.5365099678416,
+        "title": "Sede Cuneo",
+        "description": "<b>Indirizzo</b>: Piazza Coller, 13 - 12033 Cuneo (CN)",
         "zoomLevel": 20
     },
  {
