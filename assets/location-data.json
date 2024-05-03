@@ -107,8 +107,8 @@
      {
         "latitude": 45.65234577139514,  
         "longitude": 10.421319039049964,
-        "title": "Sede Sabbio Chiese",
-        "description": "<b>Indirizzo</b>: Via Magno, 19 - 25070 Sabbio Chiese (BS)",
+        "title": "Sede Territoriale Valle Sabbia",
+        "description": "<b>Responsabile</b>: Paolo Tonolini<br><b>Indirizzo</b>: Via Magno, 19 - 25070 Sabbio Chiese (BS)<br> <b>Email</b>: vallesabbia@enbiform.it",
         "zoomLevel": 20
     },   
     {
@@ -170,8 +170,8 @@
  {
         "latitude": 44.762866188721596, 
         "longitude": 7.5365099678416,
-        "title": "Sede Cuneo",
-        "description": "<b>Indirizzo</b>: Piazza Coller, 13 - 12033 Cuneo (CN)",
+        "title": "Sede Provinciale Cuneo",
+        "description": "<b>Responsabile</b>: Marco Montersino<br><b>Indirizzo</b>: Piazza Coller, 13 - 12033 Cuneo (CN) <b>Email</b>: provincialecuneo@enbiform.it",
         "zoomLevel": 20
     },
  {
