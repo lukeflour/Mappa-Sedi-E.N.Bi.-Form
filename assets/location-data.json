@@ -201,5 +201,19 @@
         "title": "Sede Interregionale Centro-Sud",
         "description": "<b>Responsabile</b>: Giuseppe Capaldo<br><b>Indirizzo</b>: Via Ugo Foscolo, 51 - 81031 Aversa (CE)<br> <b>Email</b>: E-mail: opicentrosud@enbiform.it",
         "zoomLevel": 20
+    },
+    {
+        "latitude": 41.0724090387914, 
+        "longitude": 15.059890420696592,
+        "title": "Sede Territoriale Grottaminarda",
+        "description": "<b>Indirizzo</b>: Via Santa Maria, 8 - 83035 Grottaminarda (AV)",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.14012328446931, 
+        "longitude": 10.019507911173477,
+        "title": "O.P.P E.N.Bi.Form Cremona",
+        "description": "<b>Indirizzo</b>: Via Palestro, 58 - 26100 Cremona (AV)",
+        "zoomLevel": 20
     }
 ]
